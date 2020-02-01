@@ -41,8 +41,7 @@ class NodeManagement {
     func description() {
         var node = self.head
         while (node != nil) {
-            guard let pureNode = node else { return }
-            guard let pureData = pureNode.data else { return }
+            guard let pureData = node?.data else { return }
             print(pureData)
             node = node?.next
         }
