@@ -49,7 +49,7 @@ class NodeManagement {
     
     func delete(data: Int) {
         if self.head == nil {
-            print("there is no that node")
+            print("there is no node")
             return
         }
         
@@ -81,5 +81,5 @@ let linkedList1 = NodeManagement(data: 1)
 linkedList1.add(data: 2)
 linkedList1.description()
 print("------------------")
-linkedList1.delete(data: 1)
+linkedList1.delete(data: 3)
 linkedList1.description()
