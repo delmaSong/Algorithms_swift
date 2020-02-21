@@ -24,4 +24,7 @@ Solving problems and Realizing Data Structure in swift
  - [SingleNumber](https://leetcode.com/problems/single-number/)
     - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/SingleNumber/SingleNumber/main.swift)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
+    - [solving linke](https://github.com/delmaSong/Algorithms_swift/blob/master/RotateArray/RotateArray/main.swift)
 - [CountPrimes](https://leetcode.com/problems/count-primes/)
+    - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/CountPrimes/CountPrimes/main.swift)
+
