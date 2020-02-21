@@ -10,28 +10,28 @@ import Foundation
 
 class Solution {
     func countPrimes(_ n: Int) -> Int {
-        var primes:[Int] = []
-        for element in 2 ..< n {
-            for index in 2 ..< element{
-                if element / index != 0 {
-                    primes.append(element)
-                    break
-                }
+        var counts = 0
+        for elements in 2..<n {
+            if getEliquot(elements) == 2 {
+                counts += 1
             }
         }
-        return primes.count
+        return counts
     }
     
-    func checkPrimeNumber(_ n: Int) -> Bool {
-        var isPrime = true
-        for i in 2 ..< n {
-            if n / i == 0 {
-                isPrime = false
+    func getEliquot(_ number: Int) -> Int {
+        var eliCounts = 2
+        for element in 2..<number {
+            if number % element == 0 {
+                eliCounts += 1
             }
         }
-        return isPrime
+        
+        return eliCounts
     }
+    
 }
 
 let s = Solution()
-print(s.checkPrimeNumber(10))
+print(s.countPrimes(10))
+//print(s.getEliquot(12))

@@ -8,5 +8,15 @@
 
 import Foundation
 
-print("Hello, World!")
+class Solution {
+    func rotate(_ nums: inout [Int], _ k: Int){
+        for _ in 0 ..< k {
+            let newElement = nums.removeLast()
+            nums.insert(newElement, at: 0)
+        }
+    }
+}
 
+let s = Solution()
+var arr = [-1, -100, 3, 99]
+s.rotate(&arr, 2)

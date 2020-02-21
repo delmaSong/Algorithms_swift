@@ -18,17 +18,10 @@ Solving problems and Realizing Data Structure in swift
 ## Problems
 
  - [HappyNumber](https://leetcode.com/problems/happy-number/) 
-    
     -  [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/HappyNumber/HappyNumber/main.swift)
-    
  - [KthNumber](https://programmers.co.kr/learn/courses/30/lessons/42748)
-    
     - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/KthNumber/KthNumber/main.swift)
-    
  - [SingleNumber](https://leetcode.com/problems/single-number/)
-    
     - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/SingleNumber/SingleNumber/main.swift)
-    
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
-
-    
+- [CountPrimes](https://leetcode.com/problems/count-primes/)
