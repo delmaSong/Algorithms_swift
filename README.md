@@ -28,3 +28,5 @@ Solving problems and Realizing Data Structure in swift
 - [CountPrimes](https://leetcode.com/problems/count-primes/)
     - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/CountPrimes/CountPrimes/main.swift)
 
+- [ValidAnagram](https://leetcode.com/problems/valid-anagram/)
+  - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/ValidAnagram/ValidAnagram/main.swift)
