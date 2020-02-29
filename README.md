@@ -34,3 +34,5 @@ Solving problems and Realizing Data Structure in swift
 - [MusicalScale](https://www.acmicpc.net/problem/2920)
   - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/MusicalScale/MusicalScale/main.swift)
 
+- [BlackJack](https://www.acmicpc.net/problem/2798)
+  - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/BlackJack/BlackJack/main.swift)
