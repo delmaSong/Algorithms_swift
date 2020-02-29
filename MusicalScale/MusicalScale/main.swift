@@ -9,12 +9,13 @@
 import Foundation
 
 class Solution {
-
+    
+    //before refactoring
     func judgeAscending(_ scale: [Int] ) -> String {
         var sequence = ""
         if scale[0] == 1 {
             for index in 0..<scale.count-1 {
-               let element = scale[index]
+                let element = scale[index]
                 if element + 1 != scale[index + 1 ] {
                     return "mixed"
                 }
@@ -22,7 +23,7 @@ class Solution {
             sequence = "ascending"
         }else if scale[0] == 8 {
             for index in 0..<scale.count-1 {
-               let element = scale[index]
+                let element = scale[index]
                 if element - 1 != scale[index + 1 ] {
                     return "mixed"
                 }
@@ -34,6 +35,30 @@ class Solution {
         
         
         return sequence
+    }
+    
+    //after refactoring
+    func judge(_ scale: [Int]) -> String {
+        var isAscending = true
+        var isDescending = true
+        
+        for index in 0..<scale.count-1 {
+            if scale[index] < scale[index + 1] {
+                isDescending = false
+            }else if scale[index] > scale[index + 1] {
+                isAscending = false
+            }
+            
+        }
+        
+        if isAscending {
+            return "ascending"
+        }else if isDescending {
+            return "descending"
+        }else {
+            return "mixed"
+        }
+        
     }
 }
 
