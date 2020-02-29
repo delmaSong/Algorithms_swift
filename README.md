@@ -30,3 +30,7 @@ Solving problems and Realizing Data Structure in swift
 
 - [ValidAnagram](https://leetcode.com/problems/valid-anagram/)
   - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/ValidAnagram/ValidAnagram/main.swift)
+
+- [MusicalScale](https://www.acmicpc.net/problem/2920)
+  - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/MusicalScale/MusicalScale/main.swift)
+
