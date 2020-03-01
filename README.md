@@ -14,6 +14,12 @@ Solving problems and Realizing Data Structure in swift
 - [Tree Traversal](https://github.com/delmaSong/Algorithms_swift/tree/master/DataStructure/TreeTraversal/TreeTraversal)
 - [Linked List](https://github.com/delmaSong/Algorithms_swift/blob/master/DataStructure/LinkedList/LinkedList/main.swift)
 
+## [Sorting Algorithms](https://github.com/delmaSong/Algorithms_swift/tree/master/SortingAlgorithms)
+
+- [Selection Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/SelectionSort/SelectionSort/main.swift)
+  - [blog link](https://prod.velog.io/@delmasong/Algorithm-Selection-Sort-선택-정렬)
+- [Insertion Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/InsertionSort/InsertionSort/main.swift)
+  - [blog link](https://prod.velog.io/@delmasong/AlgorithmInsertion-Sort-삽입-정렬)
 
 ## Problems
 
