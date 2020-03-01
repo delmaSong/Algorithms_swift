@@ -11,8 +11,8 @@ import Foundation
 func insertionSort(_ array: Array<Int>) -> Array<Int> {
     var arr = array
     
-    for compareIndex in 0..<arr.count - 1 {
-        for standardIndex in stride(from: compareIndex + 1, to: 0, by: -1){
+    for sortedIndex in 0..<arr.count - 1 {
+        for standardIndex in stride(from: sortedIndex + 1, to: 0, by: -1){
             if arr[standardIndex] < arr[standardIndex - 1] {
                 arr.swapAt(standardIndex, standardIndex - 1)
             }else{
