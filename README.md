@@ -10,16 +10,28 @@ Solving problems and Realizing Data Structure in swift
 
 - [Stack](https://github.com/delmaSong/Algorithms_swift/blob/master/DataStructure/Stack/Stack/main.swift)
 - [Queue](https://github.com/delmaSong/Algorithms_swift/blob/master/DataStructure/Queue/Queue/main.swift)
-- [QuickSort](https://github.com/delmaSong/Algorithms_swift/blob/master/DataStructure/QuickSort/QuickSort/main.swift)
 - [Tree Traversal](https://github.com/delmaSong/Algorithms_swift/tree/master/DataStructure/TreeTraversal/TreeTraversal)
 - [Linked List](https://github.com/delmaSong/Algorithms_swift/blob/master/DataStructure/LinkedList/LinkedList/main.swift)
 
 ## [Sorting Algorithms](https://github.com/delmaSong/Algorithms_swift/tree/master/SortingAlgorithms)
 
 - [Selection Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/SelectionSort/SelectionSort/main.swift)
+  
   - [blog link](https://prod.velog.io/@delmasong/Algorithm-Selection-Sort-선택-정렬)
+  
 - [Insertion Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/InsertionSort/InsertionSort/main.swift)
+  
   - [blog link](https://prod.velog.io/@delmasong/AlgorithmInsertion-Sort-삽입-정렬)
+  
+- [Merge Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/MergeSort/MergeSort/main.swift)
+
+  - [blog link](https://prod.velog.io/@delmasong/Algorithm-Merge-Sort-병합-정렬)
+
+- [Quick Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/QuickSort/QuickSort/main.swift)
+
+  - [blog link](https://prod.velog.io/@delmasong/Algorithm-Quick-Sort-퀵-정렬)
+
+  
 
 ## Problems
 
