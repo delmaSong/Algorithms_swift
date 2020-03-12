@@ -12,28 +12,24 @@ class Solution {
     
     func findDisappearedNumbers(_ nums: [Int]) -> [Int] {
         var answer: [Int] = []
-        var newArr: [Int] = []
+        var serialArray: [Int] = []
         var noOverlapArray: Set<Int> = []
         
         if nums.count <= 0 { return [] }
-            
-        
-        for nums in 1...nums.count {
-            newArr.append(nums)
+                    
+        for number in 1...nums.count {
+            serialArray.append(number)
         }
         
         for number in nums {
             noOverlapArray.insert(number)
         }
 
-       
-        for num in newArr {
+        for num in serialArray {
             if !noOverlapArray.contains(num) {
                 answer.append(num)
             }
         }
-        
-    
         
         return answer
     }
