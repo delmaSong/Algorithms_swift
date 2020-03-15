@@ -10,24 +10,16 @@ import Foundation
 
 func solution(_ a:Int, _ b:Int) -> Int64 {
     var answer:Int64 = 0
-    var left = a
-    var right = b
+    let minValue = a > b ? b : a
+    let maxValue = a > b ? a : b
     
-    if left > right {
-        while left >= right {
-            answer += Int64(right)
-            right += 1
-        }
-    }else if left < right {
-        while left <= right {
-            answer += Int64(left)
-            left += 1
-        }
-    }else {
-        answer = Int64(left)
+    for index in minValue...maxValue {
+        answer += Int64(index)
     }
-    
+
     return answer
 }
 
 print(solution(3, 5))
+print(solution(3, 3))
+print(solution(5, 3))
