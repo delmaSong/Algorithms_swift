@@ -5,6 +5,7 @@
 Solving problems and Realizing Data Structure in swift
 
 
+<br>
 
 ## [DataStructure](https://github.com/delmaSong/Algorithms_swift/tree/master/DataStructure)
 
@@ -13,44 +14,52 @@ Solving problems and Realizing Data Structure in swift
 - [Tree Traversal](https://github.com/delmaSong/Algorithms_swift/tree/master/DataStructure/TreeTraversal/TreeTraversal)
 - [Linked List](https://github.com/delmaSong/Algorithms_swift/blob/master/DataStructure/LinkedList/LinkedList/main.swift)
 
+<br>
+
 ## [Sorting Algorithms](https://github.com/delmaSong/Algorithms_swift/tree/master/SortingAlgorithms)
 
-- [Selection Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/SelectionSort/SelectionSort/main.swift)
-  
-  - [blog link](https://prod.velog.io/@delmasong/Algorithm-Selection-Sort-선택-정렬)
-  
-- [Insertion Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/InsertionSort/InsertionSort/main.swift)
-  
-  - [blog link](https://prod.velog.io/@delmasong/AlgorithmInsertion-Sort-삽입-정렬)
-  
-- [Merge Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/MergeSort/MergeSort/main.swift)
 
-  - [blog link](https://prod.velog.io/@delmasong/Algorithm-Merge-Sort-병합-정렬)
 
-- [Quick Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/QuickSort/QuickSort/main.swift)
+| Type | Description |
+| -------- | -------- |
+| [Selection Sort](https://github.com/delmaSong/Algorithms_swift/tree/master/SortingAlgorithms/SelectionSort/SelectionSort/main.swift)     | [Post](https://prod.velog.io/@delmasong/Algorithm-Selection-Sort-선택-정렬)     |
+|[Insertion Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/InsertionSort/InsertionSort/main.swift)|[Post](https://prod.velog.io/@delmasong/AlgorithmInsertion-Sort-삽입-정렬)|
+|[Merge Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/MergeSort/MergeSort/main.swift)|[Post](https://prod.velog.io/@delmasong/Algorithm-Merge-Sort-병합-정렬)|
+|[Quick Sort](https://github.com/delmaSong/Algorithms_swift/blob/master/SortingAlgorithms/QuickSort/QuickSort/main.swift)|[Post](https://prod.velog.io/@delmasong/Algorithm-Quick-Sort-퀵-정렬)|  
 
-  - [blog link](https://prod.velog.io/@delmasong/Algorithm-Quick-Sort-퀵-정렬)
 
-  
+<br>
 
-## Problems
+## Solving Problems
 
- - [HappyNumber](https://leetcode.com/problems/happy-number/) 
-    -  [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/HappyNumber/HappyNumber/main.swift)
- - [KthNumber](https://programmers.co.kr/learn/courses/30/lessons/42748)
-    - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/KthNumber/KthNumber/main.swift)
- - [SingleNumber](https://leetcode.com/problems/single-number/)
-    - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/SingleNumber/SingleNumber/main.swift)
-- [Rotate Array](https://leetcode.com/problems/rotate-array/)
-    - [solving linke](https://github.com/delmaSong/Algorithms_swift/blob/master/RotateArray/RotateArray/main.swift)
-- [CountPrimes](https://leetcode.com/problems/count-primes/)
-    - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/CountPrimes/CountPrimes/main.swift)
 
-- [ValidAnagram](https://leetcode.com/problems/valid-anagram/)
-  - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/ValidAnagram/ValidAnagram/main.swift)
+| Difficulty | Problem | Solution |Authorship|
+| -------- | -------- | -------- | ------ |
+ |<img src="https://img.shields.io/badge/-easy-blue"/>| [HappyNumber](https://leetcode.com/problems/happy-number/) | [Code](https://github.com/delmaSong/Algorithms_swift/blob/master/LeetCode/HappyNumber/HappyNumber/main.swift) |LeetCode|
+ |<img src="https://img.shields.io/badge/-step1-blue"/>|[KthNumber](https://programmers.co.kr/learn/courses/30/lessons/42748) | [Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/KthNumber/KthNumber/main.swift) |Programmers|
+ |<img src="https://img.shields.io/badge/-easy-blue"/>|[SingleNumber](https://leetcode.com/problems/single-number/)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/LeetCode/SingleNumber/SingleNumber/main.swift)|LeetCode|
+|<img src="https://img.shields.io/badge/-medium-yellow"/>|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Code](https://github.com/delmaSong/Algorithms_swift/blob/master/LeetCode/RotateArray/RotateArray/main.swift)|LeetCode|
+|<img src="https://img.shields.io/badge/-medium-yellow"/>|[CountPrimes](https://leetcode.com/problems/count-primes/) | [Code](https://github.com/delmaSong/Algorithms_swift/blob/master/LeetCode/CountPrimes/CountPrimes/main.swift)|LeetCode|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[ValidAnagram](https://leetcode.com/problems/valid-anagram/) | [Code](https://github.com/delmaSong/Algorithms_swift/blob/master/LeetCode/ValidAnagram/ValidAnagram/main.swift)|LeetCode|
+|-|[MusicalScale](https://www.acmicpc.net/problem/2920) | [Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Baekjoon/MusicalScale/MusicalScale/main.swift)|Baekjoon|
+|-|[BlackJack](https://www.acmicpc.net/problem/2798) | [Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Baekjoon/BlackJack/BlackJack/main.swift)| Baekjoon |
+|<img src="https://img.shields.io/badge/-medium-yellow"/>|[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/HackerRank/AlmostSorted/AlmostSorted/main.swift)|HackerRank|
+|<img src="https://img.shields.io/badge/-easy-blue"/>|[Find All Number Disappeard](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/LeetCode/FindAllNumbersDisappeared/FindAllNumbersDisappeared/main.swift)|LeetCode|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/CountsOfPY/CountsOfPY/main.swift)|Programmers|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/ReturnCenterCharacter/ReturnCenterCharacter/main.swift)|Programmers|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/SumPlaceValue/SumPlaceValue/main.swift)|Programmers|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/CaesarCipher/CaesarCipher.swift)|Programmers|
 
-- [MusicalScale](https://www.acmicpc.net/problem/2920)
-  - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/MusicalScale/MusicalScale/main.swift)
+<br>
 
-- [BlackJack](https://www.acmicpc.net/problem/2798)
-  - [solving link](https://github.com/delmaSong/Algorithms_swift/blob/master/BlackJack/BlackJack/main.swift)
+##### Programmers Difficulty Rank
+<img src="https://img.shields.io/badge/-step1-blue"/>
+<img src="https://img.shields.io/badge/-step2-green"/>
+<img src="https://img.shields.io/badge/-step3-yellow"/>
+<img src="https://img.shields.io/badge/-step4-orange"/>
+<img src="https://img.shields.io/badge/-step5-red"/>
+
+##### LeetCode | HackerRank Difficulty Rank
+<img src="https://img.shields.io/badge/-easy-blue"/>
+<img src="https://img.shields.io/badge/-medium-yellow"/>
+<img src="https://img.shields.io/badge/-hard-red"/>
