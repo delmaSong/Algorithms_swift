@@ -49,6 +49,7 @@ Solving problems and Realizing Data Structure in swift
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/ReturnCenterCharacter/ReturnCenterCharacter/main.swift)|Programmers|
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/SumPlaceValue/SumPlaceValue/main.swift)|Programmers|
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/CaesarCipher/CaesarCipher.swift)|Programmers|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/RemoveMinimum.playground/Contents.swift)|Programmers|
 
 <br>
 
