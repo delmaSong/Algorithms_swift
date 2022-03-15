@@ -56,6 +56,7 @@ Solving problems and Realizing Data Structure in swift
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/없는%20숫자%20더하기.swift)|Programmers|
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/내적.swift)|Programmers|
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/부족한%20금액%20계산하기.swift)|Programmers|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/두%20개%20뽑아서%20더하기.swift)|Programmers|
 
 <br>
 
