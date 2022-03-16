@@ -61,6 +61,7 @@ Solving problems and Realizing Data Structure in swift
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/나머지가%201이%20되는%20수%20찾기.swift)|Programmers|
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[로또의 최고순위와 최저순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/로또의%20최고순위와%20최저순위.swift)|Programmers|
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/콜라츠%20추측.swift)|Programmers|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/하샤드%20수.swift)|Programmers|
 
 <br>
 
