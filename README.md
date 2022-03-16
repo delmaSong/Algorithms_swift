@@ -59,7 +59,7 @@ Solving problems and Realizing Data Structure in swift
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/두%20개%20뽑아서%20더하기.swift)|Programmers|
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/3진법%20뒤집기.swift)|Programmers|
 |<img src="https://img.shields.io/badge/-step1-blue"/>|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/나머지가%201이%20되는%20수%20찾기.swift)|Programmers|
-|<img src="https://img.shields.io/badge/-step1-blue"/>|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/로또의%20최고순위와%20최저순위.swift)|Programmers|
+|<img src="https://img.shields.io/badge/-step1-blue"/>|[로또의 최고순위와 최저순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[Code](https://github.com/delmaSong/Algorithms_swift/blob/master/Programmers/로또의%20최고순위와%20최저순위.swift)|Programmers|
 
 <br>
 
